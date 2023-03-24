@@ -19,7 +19,7 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [] ()
+- URL de la solución: [https://github.com/jtafurh/Results_summary_component] (https://github.com/jtafurh/Results_summary_component)
 - URL del sitio en vivo: [] ()
 
 ## Mi proceso
