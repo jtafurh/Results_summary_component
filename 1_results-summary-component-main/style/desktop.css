@@ -1,0 +1,48 @@
+.card{
+  width: 736px;
+  height: 512px;
+  margin: 200px auto;
+  background: #FFFFFF;
+  box-shadow: 20px 20px 50px rgba(51, 45, 233, 0.13);
+  border-radius: 30px;
+  display: flex;
+}
+.card-blue{
+  width: 368px;
+  height: auto;
+  border-radius: 30px;
+  padding: 40px 57px;
+}
+.title-1-2{
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+}
+.puntaje{
+  width: 200px;
+  height: 200px;
+  margin: 36px auto 30px auto;
+}
+.puntaje_parte{
+  font-size: 70px;
+  line-height: 85px;
+}
+.parrafo-2{
+  font-size: 18px;
+  letter-spacing: -0.01em;
+}
+.title-2-2{
+  font-size: 32px;
+  line-height: 37px;
+  margin-bottom: 18px;
+}
+.card_sumary{
+  padding: 40px;
+}
+.summary-part_container{
+  margin-bottom: 25px;
+}
+.card_sumary_part{
+  height: 56px;
+  width: 288px;
+}
