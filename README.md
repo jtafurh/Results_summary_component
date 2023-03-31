@@ -14,8 +14,8 @@ Los usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-![](/1_results-summary-component-main/capturas/desktop.png)
-![](/1_results-summary-component-main/capturas/mobile.png)
+![](/capturas/desktop.png)
+![](/capturas/mobile.png)
 
 ### Enlaces
 
